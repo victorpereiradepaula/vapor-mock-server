@@ -1,26 +1,19 @@
-# PROJECT_NAME
+# Vapor Mock Server
 
-Descrição
+[![GitHub license](https://img.shields.io/github/license/victorpereiradepaula/vapor-mock-server)](https://github.com/victorpereiradepaula/vapor-mock-server/blob/master/LICENSE)
+[![Swift 5.9+](https://img.shields.io/badge/Swift-5.9%2B-orange.svg)](https://www.swift.org/blog/swift-5.9-released/)
 
-[![GitHub license](https://img.shields.io/github/license/victorpereiradepaula/PROJECT_NAME)](https://github.com/victorpereiradepaula/PROJECT_NAME/blob/master/LICENSE)
-[![Xcode XCODE_VERSION+](https://img.shields.io/badge/Xcode-XCODE_VERSION%2B-blue.svg)](XCODE_VERSION_URL)
-[![Swift SWIFT_VERSION+](https://img.shields.io/badge/Swift-SWIFT_VERSION%2B-orange.svg)](SWIFT_VERSION_URL)
-[![iOS IOS_VERSION+](https://img.shields.io/badge/iOS-IOS_VERSION%2B-purple)](IOS_VERSION_URL)
+Servidor mock para testes.
 
-## Índice
+## Execução
 
-1. [Funcionalidades](#funcionalidades)
-<!-- 1. [Dependências](#dependências) -->
-1. [Exemplos](#exemplos)
+Execute o comando:
 
-## Funcionalidades
+```bash
+swift run
+```
+O resultado pode ser observado em **localhost:8080/SUA_ROTA** ou **http://127.0.0.1:8080/SUA_ROTA**
 
-- [ ] 
+## Referências
 
-<!-- ## Dependências -->
-
-<!-- -   -->
-
-## Exemplos
-
-<!-- ![SAMPLE_NAME](SAMPLE_URL) -->
+![Vapor](https://github.com/vapor/vapor)
